@@ -1,0 +1,1 @@
+# Aplicativo_Tratamento_IMG_OpenCV
